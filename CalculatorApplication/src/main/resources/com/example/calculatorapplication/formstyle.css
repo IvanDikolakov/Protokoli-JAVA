@@ -1,0 +1,23 @@
+.firstNumber {
+    -fx-font-size: 16pt;
+}
+.secondNumber {
+    -fx-font-size: 16pt;
+}
+
+.button1 {
+    -fx-font-size: 16pt;
+}
+.button2 {
+    -fx-font-size: 16pt;
+}
+.button3 {
+    -fx-font-size: 16pt;
+}
+.button4 {
+    -fx-font-size: 16pt;
+}
+
+.result {
+    -fx-font-size: 800pt;
+}

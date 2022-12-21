@@ -1,0 +1,25 @@
+
+k
+java:S36557"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(á»ÿíÿÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(á»ÿíÿÿÿÿÿ
+k
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(á»ÿíÿÿÿÿÿ
+k
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(á»ÿíÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä¯¤øşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä¯¤øşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä¯¤øşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕŒÃÕøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅñêÄúÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(à¸ëçıÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Áè›
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Ú¢üå
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(§öÿ²
+[
+java:S16122"@Replace this lambda with method reference 'String::toUpperCase'.(îİ¯ÿûÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÿé•
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(çªˆøÿÿÿÿ
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(â›îãüÿÿÿÿ8¾ùÅ³Ó0
